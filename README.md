@@ -11,7 +11,7 @@ I'm a 3D Artist and Real-Time Developer, passionate about building the next gene
 * 🧠  I'm learning Software Development
 * 🎨 As an Artist: I specialize in environment design, lighting, and asset creation for real-time rendering.
 * 🚀 As a Developer: I build interactive systems, mechanics, and tools primarily within Unreal Engine and Houdini.
-* 💻 As a Learner: I'm on an exciting journey to master software development, exploring C++, Python, and application architecture.
+* 💻 As a Learner: I'm on an exciting journey to master software development, exploring JavaScript, CSS, HTML, PHP, C++, and application architecture.
 
 🛠️ My Toolbox
 * Category	  Technologies & Skills
