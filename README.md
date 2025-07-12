@@ -4,7 +4,7 @@ Hi 👋 My name is Zachariah Farran
 3D Artist/Developer
 -------------------
 
-I'm a 3D Artist and Real-Time Developer, passionate about building the next generation of interactive experiences. I combine my artistic vision with a growing expertise in programming to create immersive virtual worlds.
+A 3D Artist/Game Designer, I combine my artistic experience with a growing expertise in programming to create immersive virtual worlds.
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [zak.faran@gmail.com](mailto:zak.faran@gmail.com)
