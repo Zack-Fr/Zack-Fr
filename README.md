@@ -8,7 +8,7 @@ A 3D Artist/Game Designer, I combine my artistic experience with a growing exper
 
 * 🌍  I'm based in Lebanon
 * ✉️  Email @ [zak.faran@gmail.com](mailto:zak.faran@gmail.com)
-* 🧠  I'm learning Software Development
+* 🧠  I'm learning Software Engineering
 * 🎨 As an Artist: I specialize in environment design, lighting, and asset creation for real-time rendering.
 * 🚀 As a Developer: I build interactive systems, mechanics, and tools primarily within Unreal Engine and Houdini.
 * 💻 As a Learner: I'm on an exciting journey to learn software development, exploring JavaScript, CSS, HTML, PHP, C++, and application architecture.
