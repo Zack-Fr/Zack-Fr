@@ -1,4 +1,4 @@
-Hi 👋 My name is Zachariah Farran
+Hi 👋 My name is Zackariah Farran
 =================================
 
 3D Artist/Developer
