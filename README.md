@@ -4,7 +4,8 @@ Hi 👋 My name is Zachariah Farran
 3D Artist/Developer
 -------------------
 
-A 3D Artist/Game Designer, I combine my artistic experience with a growing expertise in programming to create immersive applications.
+Creative technologist and full-stack software engineer in training, combining 7+ years of experience in CGI with a growing skill set in backend architecture, frontend design, and API development. 
+Passionate about building modular, scalable systems while applying visual storytelling techniques to technical solutions.
 
 * 🌍  I'm based in Lebanon
 * ✉️  Email @ [zak.faran@gmail.com](mailto:zak.faran@gmail.com)
