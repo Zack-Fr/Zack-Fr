@@ -22,7 +22,7 @@ Creative technologist and full-stack software engineer, combining 7+ years of ex
 
 I'm on an exciting path learning software development, exploring the full spectrum from backend services to real-time 3D web applications. My background in 3D art gives me a unique perspective on problem-solving and system design.
 
-**As an Artist:** I specialize in environment design and asset creation for real-time rendering, and motion graphics and animations for product marketing.
+**As an Artist:** I specialize in environment design and asset creation for real-time rendering, and motion graphics/animations for product marketing.
 
 **As a Developer:** I build interactive systems, mechanics, and tools primarily within Unreal Engine and web-based 3D platforms.
 
@@ -55,8 +55,8 @@ Validation     → Zod / JSON Schema
 
 <p align="left">
 <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" width="36" height="36" alt="Unreal Engine"/></a>
-<a href="https://www.sidefx.com/" target="_blank" rel="noreferrer"><img src="https://www.sidefx.com/media/uploads/images/logos/Houdini_Icon_Color_Metallic_Trans_2020_04_16.png" width="36" height="36" alt="Houdini"/></a>
-<a href="https://www.autodesk.com/products/maya/" target="_blank" rel="noreferrer"><img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/maya-2023-badge-75x75.png" width="36" height="36" alt="Maya"/></a>
+<!-- <a href="https://www.sidefx.com/" target="_blank" rel="noreferrer"><img src="https://www.sidefx.com/media/uploads/images/logos/Houdini_Icon_Color_Metallic_Trans_2020_04_16.png" width="36" height="36" alt="Houdini"/></a> -->
+<!-- <a href="https://www.autodesk.com/products/maya/" target="_blank" rel="noreferrer"><img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/maya-2023-badge-75x75.png" width="36" height="36" alt="Maya"/></a> -->
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender"/></a>
 <a href="https://www.adobe.com/products/substance3d-painter.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/substance-painter.svg" width="36" height="36" alt="Substance Painter"/></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop"/></a>
