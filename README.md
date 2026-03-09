@@ -1,6 +1,3 @@
-# Zackariah Farran | Systems Architect & Unreal Engine Lead
-**Engineering real-time digital humans and low-latency AI infrastructure.**
-
 I bridge the gap between high-fidelity 3D environments and enterprise-grade backend systems. My work focuses on the "Hard Problems" of real-time interaction: sub-second audio streaming, deterministic animation orchestration, and scalable cloud-to-edge AI deployment.
 
 ---
