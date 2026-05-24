@@ -1,17 +1,18 @@
 # Zakaria Farran
 
-I build guided 3D product experiences for the web.
+I build interactive product experiences for the web.
 
-I'm the founder of **ZackLab**, where I'm building **Mia**: a website-embedded AI product guide that can answer product questions and open selected products in high-fidelity 3D inside the same buying flow. The goal is to help brands with high-consideration products add a richer product experience without rebuilding their sites around WebGL.
+I'm the founder of **ZackLab**, where I'm building **GuidePortal**: an AI-guided 3D product layer for websites. It sits on top of existing sites and helps companies turn product pages into guided buying experiences without a full website rebuild. **Mia** is the guide inside that experience.
 
 ---
 
 ## Current focus
 
-- Website-embedded AI product guidance
-- Real-time 3D product showcase orchestration
+- GuidePortal product development
+- Guided 3D product interaction for websites
+- Real-time 3D product state orchestration
 - Low-latency voice and text interaction
-- Multi-client deployment systems for branded pilots
+- Deployment systems for layered web product experiences
 
 ## Technical stack
 
@@ -22,14 +23,15 @@ I'm the founder of **ZackLab**, where I'm building **Mia**: a website-embedded A
 
 ## What I'm interested in
 
-Most website assistants stop at text. I work on the systems that let an assistant guide a product conversation, switch variants, trigger 3D product states, and keep the experience synchronized across web, voice, and real-time rendering.
+Most website assistants stop at text. I'm interested in systems that let users ask questions, explore products visually, switch states or variants, and move through a richer guided experience directly inside the website flow.
 
 ## Background
 
-My background spans motion design and marketing, real-time 3D / Unreal development, and software engineering. That mix is what pulled me toward building product experiences that sit between e-commerce, AI interaction, and real-time graphics.
+My background spans motion design and marketing, real-time 3D / Unreal development, and software engineering. That mix pulled me toward building products at the intersection of e-commerce, AI interaction, and real-time graphics.
 
 ## Links
 
-- **Website:** [zacklab.tech](https://zacklab.tech)
+- **ZackLab:** [zacklab.tech](https://zacklab.tech)
+- **GuidePortal:** [guideportal.dev](https://guideportal.dev)
 - **LinkedIn:** [linkedin.com/in/zackfarran](https://www.linkedin.com/in/zackfarran/)
-- **Email:** zack.faran@zacklab.tech
+- **Email:** [zack.faran@zacklab.tech](mailto:zack.faran@zacklab.tech)
